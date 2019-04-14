@@ -1,0 +1,11 @@
+[14-Dec-2016 14:27:45 America/Denver] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home1/morrisu2/public_html/newsite/php/masters/header.php on line 79
+[14-Dec-2016 14:33:18 America/Denver] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home1/morrisu2/public_html/newsite/php/masters/header.php on line 82
+[14-Dec-2016 14:33:28 America/Denver] PHP Notice:  Undefined variable: path in /home1/morrisu2/public_html/newsite/php/masters/header.php on line 82
+[14-Dec-2016 14:33:38 America/Denver] PHP Notice:  Undefined variable: path in /home1/morrisu2/public_html/newsite/php/masters/header.php on line 82
+[14-Dec-2016 14:33:59 America/Denver] PHP Notice:  Undefined variable: path in /home1/morrisu2/public_html/newsite/php/masters/header.php on line 82
+[14-Dec-2016 14:34:03 America/Denver] PHP Notice:  Undefined variable: path in /home1/morrisu2/public_html/newsite/php/masters/header.php on line 82
+[14-Dec-2016 14:34:28 America/Denver] PHP Notice:  Undefined variable: path in /home1/morrisu2/public_html/newsite/php/masters/header.php on line 82
+[14-Dec-2016 14:42:25 America/Denver] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL) in /home1/morrisu2/public_html/newsite/php/masters/header.php on line 95
+[15-Dec-2016 14:13:10 America/Denver] PHP Notice:  Undefined variable: active in /home1/morrisu2/public_html/newsite/php/masters/header.php on line 94
+[15-Dec-2016 14:16:41 America/Denver] PHP Notice:  Undefined variable: active in /home1/morrisu2/public_html/newsite/php/masters/header.php on line 94
+[17-Dec-2016 14:45:35 America/Denver] PHP Notice:  Undefined variable: active in /home1/morrisu2/public_html/newsite/php/masters/header.php on line 94
