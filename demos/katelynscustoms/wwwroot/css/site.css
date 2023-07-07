@@ -1,0 +1,44 @@
+.carousel-inner .item .container a img{
+    height:480px;
+    width:100%;
+}
+#featured img {
+    height: 160px;
+}
+
+.featured-thumb{
+    height:425px;
+}
+.blockviewimg{
+    max-height:175px;
+}
+.compareimg{
+    max-height:215px;
+}
+
+a{
+    color:blue;
+    text-decoration:underline;
+}
+
+.subMenu a{
+    cursor: pointer;
+}
+
+#srchFld{
+    padding-left:35px;
+}
+
+.thumbpic{
+    height:260px;
+}
+
+.estbox{
+    border:1px solid lightgray;
+    padding:15px;
+    margin:18px 0;
+}
+
+.form-control{
+    width:40%;
+}
