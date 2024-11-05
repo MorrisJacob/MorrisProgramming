@@ -5,12 +5,12 @@
 		<div class="overlay"></div>
 		<div class="container">
 			<div class="row">
-				<div class="col-md-8 col-md-offset-2 text-center">
+				<div class="col-md-10 col-md-offset-1 text-center">
 					<div class="display-t">
 						<div class="display-tc animate-box" data-animate-effect="fadeIn">
-							<h1>Welcome!</h1>
-							<h2>Feel free to browse our new site</h2>
-							<p><a href="https://www.facebook.com/MorrisProgramming/" class="btn btn-primary" target="_blank">Like us on Facebook</a></p>
+							<h1>Experience Programming</h1>
+							<h2>Since 2014, we have been specializing in creating custom and tailored solutions to businesses in a variety of industries across the Midwest. Interested?</h2>
+							<p><a href="/contact.php" class="btn btn-primary">Send us a Message</a></p>
 						</div>
 					</div>
 				</div>
@@ -40,9 +40,9 @@
 				<div class="col-md-4 text-center animate-box">
 					<div class="services">
 						<span><img class="img-responsive" src="images/icons/learning.png" alt=""></span>
-						<h3>Learning</h3>
-						<p>Are you ready to take on programming yourself? You can use our site to get started, or begin taking coding lessons with an instructor!</p>
-						<p><a href="#" class="btn btn-primary btn-outline btn-sm">Learn More <i class="icon-arrow-right"></i></a></p>
+						<h3>Consulting</h3>
+						<p>Unsure where you want to get started? Contact us for a 100% free consultation</p>
+						<p><a href="contact.php" class="btn btn-primary btn-outline btn-sm">Learn More <i class="icon-arrow-right"></i></a></p>
 					</div>
 				</div>
 			</div>

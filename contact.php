@@ -8,15 +8,13 @@
 					<div class="display-t">
 						<div class="display-tc animate-box" data-animate-effect="fadeIn">
 							<h1>Contact Us</h1>
-							<h2>Feel free to <a href="mailto:contact@morrisprogramming.com" class="redcolor">Email Us</a> at anytime!</h2>
+							<h2>Feel free to <a href="mailto:contact@morrisprogramming.com" class="redcolor">Email</a>, <a href="tel://3176430663" class="redcolor">Call</a>, or <a href="tel://3176430663" class="redcolor">Text</a> Us at anytime!</h2>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
 	</header>
-	<div id="map" class="fh5co-map"></div>
-		<!-- END map -->
 	
 	<div id="fh5co-contact">
 		<div class="container">
@@ -27,7 +25,7 @@
 						<h3>Contact Information</h3>
 						<ul>
 							<li class="address">Kokomo, IN 46901</li>
-							<li class="phone"><a href="tel://7654616017">(765)461-6017</a></li>
+							<li class="phone"><a href="tel://3176430663">(317)643-0663</a></li>
 							<li class="email"><a href="mailto:contact@morrisprogramming.com">contact@morrisprogramming.com</a></li>
 						</ul>
 					</div>

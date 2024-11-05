@@ -82,10 +82,10 @@ if(basename($_SERVER['PHP_SELF']) == "index.php"){
 			<div class="container">
 				<div class="row">
 					<div class="col-xs-12 text-right">
-						<p class="num">Call <a href="tel://7654616017" class="redcolor">(765)461-6017</a> for consultation</p>
-						<ul class="fh5co-social">
+						<p class="num">Call <a href="tel://3176430663" class="redcolor">(317)643-0663</a> for consultation</p>
+						<!--<ul class="fh5co-social">
 							<li><a href="https://www.facebook.com/MorrisProgramming/" target="_blank"><i class="icon-facebook"></i></a></li>
-						</ul>
+						</ul>-->
 					</div>
 				</div>
 			</div>
@@ -102,7 +102,7 @@ if(basename($_SERVER['PHP_SELF']) == "index.php"){
 							<li class="<?php if((isset($active)) && ($active == "home")) {echo "active"; } ?>"><a href="<?php echo $siteurl ?>/index.php">Home</a></li>
 							<li class="<?php if((isset($active)) && ($active == "pricing")) {echo "active"; } ?>"><a href="<?php echo $siteurl ?>pricing.php">Pricing</a></li>
 							<li class="<?php if((isset($active)) && ($active == "about")) {echo "active"; } ?>"><a href="<?php echo $siteurl ?>/about.php">About</a></li>
-							<li class="<?php if(!isset($active)) {echo "active"; } ?> has-dropdown">
+							<!--<li class="<?php if(!isset($active)) {echo "active"; } ?> has-dropdown">
 								<a href="#">Lessons</a>
 								<ul class="dropdown">
 									<li><a href="<?php echo $siteurl ?>/php/lessons/html.php">Html</a></li>
@@ -111,7 +111,7 @@ if(basename($_SERVER['PHP_SELF']) == "index.php"){
 									<li><a href="<?php echo $siteurl ?>/php/lessons/visualbasic.php">Visual Basic</a></li>
 									<li><a href="<?php echo $siteurl ?>/php/lessons/java.php">Java</a></li>
 								</ul>
-							</li>
+							</li>-->
 							<li class="<?php if((isset($active)) && ($active == "contact")) {echo "active"; } ?>"><a href="<?php echo $siteurl ?>/contact.php">Contact</a></li>
 						</ul>
 					</div>

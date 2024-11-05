@@ -3,7 +3,7 @@
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
 					<h2>About Us</h2>
-					<p>Morris Programming started in Kokomo, Indiana in 2015. Since then, the company has created mobile applications, built beautiful website designs, and taught multiple people the art of programming!</p>
+					<p>Morris Programming started in Kokomo, Indiana in 2014. Since then, the company has expanded into multiple IT markets, from mobile applications to beautiful website designs, including server maintenance and even video game development.</p>
 				</div>
 			</div>
 			<div class="row">
@@ -17,8 +17,6 @@
 						<div class="desc text-center">
 							<ul class="fh5co-social-icons">
 								<li><a href="https://www.linkedin.com/in/jacob-morris-880510b6?trk=hp-identity-name" target="_blank"><i class="icon-linkedin"></i></a></li>
-								<li><a href="https://www.facebook.com/JacobMorrisProgramming" target="_blank"><i class="icon-facebook"></i></a></li>
-								<li><a href="https://www.instagram.com/morrisprogramming/" target="_blank"><i class="icon-instagram"></i></a></li>
 								<li><a href="http://stackoverflow.com/users/4289829/jacob-morris" target="_blank">SO</a></li>
 							</ul>
 						</div>

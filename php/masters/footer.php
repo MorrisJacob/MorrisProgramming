@@ -48,11 +48,6 @@
 						<small class="block">&copy; 2016 Morris Programming. All Rights Reserved.</small> 
 						<small class="block">Designed by <a href="http://www.MorrisProgramming.com">Morris Programming LLC.</a></small>
 					</p>
-					<p>
-						<ul class="fh5co-social-icons">
-							<li><a href="https://www.facebook.com/MorrisProgramming/"><i class="icon-facebook"></i></a></li>
-						</ul>
-					</p>
 				</div>
 			</div>
 

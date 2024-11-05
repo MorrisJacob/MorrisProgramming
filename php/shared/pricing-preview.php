@@ -43,15 +43,12 @@
 
 					<div class="col-md-4 animate-box">
 						<div class="price-box popular">
-							<h2 class="pricing-plan pricing-plan-offer">Programming Lessons</h2>
-							<div class="price"><sup class="currency">$</sup>75<small>/month</small></div>
+							<h2 class="pricing-plan pricing-plan-offer">Consulting</h2>
+							<div class="price" style="font-size:20pt;">Free!</div>
 							<ul class="classes">
-								<li>Learn to program</li>
-								<li class="color">All skill levels available</li>
-								<li>Create your own websites</li>
-								<li class="color">Build your own phone applications</li>
-								<li>Build your own computer applications</li>
-								<li class="color redcolor">Experience Programming</li>
+								<li>First consulting meeting 100% Free</li>
+								<li class="color">Work with you to determine time and cost within your budget</li>
+								<li>Free first mock-up to ensure project clarity and direction</li>
 							</ul>
 							<a href="contact.php" class="btn btn-select-plan btn-sm">Contact us for details</a>
 						</div>
